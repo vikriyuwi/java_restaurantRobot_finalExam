@@ -165,6 +165,7 @@ public class FinalExam2501973994 {
                             System.out.println("Please input using valid method number!\n");
                             break;
                     }
+                    break;
                 case 2:
                     run = false;
                     break;
